@@ -10,7 +10,7 @@ Add this to your `Cargo.toml` dependencies:
 
 ```toml
 [dependencies]
-yabel = { git = https://github.com/rctlmk/yabel }
+yabel = { git = "https://github.com/rctlmk/yabel" }
 ```
 
 You can find some examples [here](examples/README.MD).
